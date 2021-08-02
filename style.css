@@ -1,0 +1,44 @@
+#wallpaper{
+    width:1450px;
+    height:820px;
+    margin-right:-20px;
+    margin-left:-10px;
+}
+.menu {
+    z-index: 10;
+    position: fixed;
+    margin-top: 0;
+    top: 0;
+    cursor: pointer;
+    margin-left: -8px;
+    list-style: none;
+    background-color:dimgrey;
+    width: 100%;
+}
+.buttons {
+    font-size:30px;
+    padding: 20px;
+    display: inline;
+}
+a {
+    font-size: 25px;
+    text-decoration: none !important;
+    color:darkturquoise;
+}
+img{
+    width:552px;
+    height:400px;
+}
+#slide img{
+    margin-top:30px;
+}
+#slide {
+    background-color:brown;
+    margin-top:-2px;
+    padding-top:3px;
+}
+#grid {
+    background-color:brown;
+    margin-top:-2px;
+    padding-top:3px;
+}
